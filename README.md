@@ -33,6 +33,18 @@ $ git clone https://github.com/philipeperete/ImersaoGameDev.git
 index.html
 ```
 
+## 🎮 Como jogar
+
+Objetivo: Ir o mais longe que conseguir com 3 vidas.
+
+Se encostar em um inimigo você perde uma vida, ao perder as 3 será Game Over.
+
+Você pode pular pressionando 🔼 - "key arrow up / seta pra cima".
+
+Se pressionar 2x, Hipsta fará um "double jump / duplo pulo".
+
+Para se divertir agora, clique aqui em [Jogar](https://philipeperete.github.io/ImersaoGameDev/index.html).
+
 ## 🖼 Layout
 
 ![Layout Witch Game](/imagens/personagem/layout.PNG)
