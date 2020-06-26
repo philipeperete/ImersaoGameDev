@@ -9,13 +9,13 @@ let imagemVida;
 let fonteTelaInicial;
 let somDoPulo;
 let jogo;
-let fita
+let fita;
 
 let cenaAtual = 'telaInicial';
 let cenas;
 let telaInicial;
 let botaoGerenciador;
-let vida
+let vida;
 
 let cenario;
 let somDoJogo;
@@ -73,7 +73,8 @@ const matrizPersonagem = [
   [220, 810],
   [440, 810],
   [660, 810],
-]
+];
+
 const matrizInimigoGrande = [
   [0,0],
   [400,0],
@@ -103,7 +104,8 @@ const matrizInimigoGrande = [
   [0, 2000],
   [400, 2000],
   [800, 2000],
-]
+];
+
 const matrizInimigoVoador = [
   [0,0],
   [200, 0],
@@ -121,6 +123,6 @@ const matrizInimigoVoador = [
   [200, 600],
   [400, 600],
   [0, 750],
-]
+];
 
-const inimigos = []
+const inimigos = [];

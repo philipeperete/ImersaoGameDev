@@ -1,6 +1,7 @@
 class TelaInicial {
   constructor(){
-  
+    this.x = width / 2;
+    this.y = height
   }
   
   draw(){
@@ -14,12 +15,16 @@ class TelaInicial {
   }
   
   _texto(){
-    textFont(fonteTelaInicial);
-    textAlign(CENTER)
+    fill(0);
+    strokeWeight(2);
+    stroke(245, this.opacity);
+    textAlign(CENTER);
     textSize(50);
+    textFont(fonteTelaInicial);
     text('As aventuras de', width / 2, height / 3);
     textSize(150);
-    text('Hipsta', width / 2, height / 5 * 3)
+    text('Hipsta', width / 2, height / 5 * 3);
+    textFont('Georgia')
   }
   
   _botao(){

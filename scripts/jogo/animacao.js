@@ -1,5 +1,6 @@
 class Animacao {
   constructor(matriz, imagem, x, variacaoY, largura, altura, larguraSprite, alturaSprite){
+    
     this.matriz = matriz;
     this.imagem = imagem;
     this.largura = largura;
@@ -23,7 +24,7 @@ class Animacao {
     this.frameAtual++
     
     if(this.frameAtual >= this.matriz.length - 1) {
-      this.frameAtual = 0
+      this.frameAtual = 0;
     }
   }
 }
