@@ -58,8 +58,8 @@ _________
 
 ## 🖼 Layout
 
-![Layout Witch Game](/imagens/personagem/layout2.PNG)
 ![Layout Witch Game](/imagens/personagem/layout.PNG)
+![Layout Witch Game](/imagens/personagem/layout2.PNG)
 
 _________
 
