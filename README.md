@@ -24,6 +24,7 @@ _________
 
 - [P5 Editor](https://editor.p5js.org/)
 - HTML5/Canvas
+- CSS
 - [TypeScript][typescript]
 
 _________
@@ -57,8 +58,8 @@ _________
 
 ## 🖼 Layout
 
-![Layout Witch Game](/imagens/personagem/layout.PNG)
 ![Layout Witch Game](/imagens/personagem/layout2.PNG)
+![Layout Witch Game](/imagens/personagem/layout.PNG)
 
 _________
 
