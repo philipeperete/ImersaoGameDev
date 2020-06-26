@@ -15,6 +15,7 @@ _________
 
 🕹️ Criação de um jogo utilizando Javascript na semana da #ImersãoGameDev da [Alura][alura] 💜.
 
+
 📦 O download completo de todas as sprites, podem ser encontradas em: [PIPOYA FREE 2D Game Character Sprites](https://pipoya.itch.io/pipoya-free-2d-game-character-sprites)
 
 _________
@@ -23,7 +24,6 @@ _________
 
 - [P5 Editor](https://editor.p5js.org/)
 - HTML5/Canvas
-- JavaScript
 - [TypeScript][typescript]
 
 _________
@@ -44,11 +44,12 @@ _________
 
 Objetivo: Ir o mais longe que conseguir com 3 vidas.
 
-Se encostar em um inimigo você perde uma vida, ao perder as 3 será Game Over.
+Se encostar em um inimigo você perde uma vida, ao perder as 3 vidas será game over.
 
-Você pode pular pressionando 🔼 - "key arrow up / seta pra cima".
 
-Se pressionar 2x, Hipsta fará um "double jump / duplo pulo".
+Você pode pular pressionando 🔼 - "seta pra cima".
+Se pressionar 2x, Hipsta fará um double jump.
+
 
 Para se divertir agora, clique aqui em [Jogar](https://philipeperete.github.io/ImersaoGameDev/index.html).
 
@@ -71,7 +72,7 @@ _________
 Agradecimentos [Alura][alura] 💜.
 
 * Twitter: [Philipe Perete](https://twitter.com/PhilipePerete).
-* Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104
+* Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104).
 * Github: [Philipe Perete](https://github.com/philipeperete).
 
 Feito com 💙 por **Philipe Perete** 👻.
