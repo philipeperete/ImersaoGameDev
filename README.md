@@ -42,12 +42,12 @@ _________
 
 ## 🎮 Como jogar
 
-Objetivo: Ir o mais longe que conseguir com 3 vidas.
+Objetivo: Ir o mais longe que conseguir com 5 vidas.
 
-Se encostar em um inimigo você perde uma vida, ao perder as 3 vidas será game over.
+Se encostar em um inimigo você perde uma vida, ao perder as 5 vidas será game over.
 
 
-Você pode pular pressionando 🔼 - "seta pra cima".
+Você pode pular pressionando 🔼.
 Se pressionar 2x, Hipsta fará um double jump.
 
 
