@@ -56,7 +56,7 @@ Para se divertir agora, clique aqui em [Jogar](https://philipeperete.github.io/I
 
 _________
 
-## 🖼 Layout
+## 🎨 Layout
 
 ![Layout Witch Game](/imagens/personagem/layout.PNG)
 ![Layout Witch Game](/imagens/personagem/layout2.PNG)
