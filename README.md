@@ -22,9 +22,9 @@ _________
 
 ## 🛠 Tecnologias
 
-- [P5 Editor](https://editor.p5js.org/)
-- HTML5/Canvas
-- CSS
+- [P5 Editor](https://editor.p5js.org/) 
+- [HTML5]/Canvas
+- [CSS3]
 - [TypeScript][typescript]
 
 _________
@@ -78,6 +78,9 @@ Agradecimentos [Alura][alura] 💜.
 * Github: [Philipe Perete](https://github.com/philipeperete).
 
 Feito com 💙 por **Philipe Perete** 👻.
+
+[HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[CSS3]: https://developer.mozilla.org/en-US/docs/Archive/CSS3 
 
 [alura]: https://www.alura.com.br/
 [typescript]: https://www.typescriptlang.org/
