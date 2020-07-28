@@ -1,4 +1,4 @@
-# #ImersaoGameDev - Alura 💜
+# <h1 align='center'>#ImersaoGameDev - Alura 💜</h1> 
 
 <h1 align="center">Hipsta 🔮</h1>
 <p align="center"><img src="/imagens/personagem/witch.gif"></p> 
